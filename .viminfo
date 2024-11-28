@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :x!
-|2,0,1732817444,,"x!"
+|2,0,1732817515,,"x!"
+:x"
+|2,0,1732817488,,"x\""
 
 # Search String History (newest to oldest):
 
@@ -25,20 +27,168 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/pretty
-|4,48,1,4,1732817444,"~/pretty"
-'1  1  14  ~/qwweertty
-|4,49,1,14,1732817434,"~/qwweertty"
+'0  1  9  ~/opekfp
+|4,48,1,9,1732817515,"~/opekfp"
+'1  1  9  ~/opekfp
+|4,49,1,9,1732817506,"~/opekfp"
+'2  3  0  ~/smelly
+|4,50,3,0,1732817495,"~/smelly"
+'3  3  0  ~/smelly
+|4,51,3,0,1732817488,"~/smelly"
+'4  1  4  ~/pretty
+|4,52,1,4,1732817444,"~/pretty"
+'5  1  14  ~/qwweertty
+|4,53,1,14,1732817434,"~/qwweertty"
 
 # Jumplist (newest first):
+-'  1  9  ~/opekfp
+|4,39,1,9,1732817515,"~/opekfp"
+-'  1  9  ~/opekfp
+|4,39,1,9,1732817506,"~/opekfp"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817495,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817495,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817495,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817495,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817488,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817488,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817488,"~/smelly"
+-'  3  0  ~/smelly
+|4,39,3,0,1732817488,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  0  ~/smelly
+|4,39,1,0,1732817483,"~/smelly"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
+-'  1  4  ~/pretty
+|4,39,1,4,1732817444,"~/pretty"
 -'  1  4  ~/pretty
 |4,39,1,4,1732817444,"~/pretty"
 -'  1  14  ~/qwweertty
 |4,39,1,14,1732817434,"~/qwweertty"
 -'  1  14  ~/qwweertty
 |4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
+-'  1  14  ~/qwweertty
+|4,39,1,14,1732817434,"~/qwweertty"
 
 # History of marks within files (newest to oldest):
+
+> ~/opekfp
+	*	1732817513	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/smelly
+	*	1732817493	0
+	"	3	0
+	^	3	0
+	.	2	5
+	+	2	5
 
 > ~/pretty
 	*	1732817441	0
